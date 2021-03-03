@@ -37,7 +37,7 @@
 					// Images (in the format of 'url': 'alignment').
 						images: {
 							'images/alexander-redl-d3bYmnZ0ank-unsplash.jpg': 'center',
-							'images/brian-erickson-XFneC_rHR48-unsplash.jpg': 'center',
+							'images/bruce-mars-pFyKRmDiWEA-unsplash.jpg': 'center',
 							'images/jonny-kennaugh-nPOtzvGLYW0-unsplash.jpg': 'center'
 						},
 
